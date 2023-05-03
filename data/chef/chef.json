@@ -1,0 +1,45 @@
+[
+    {
+        "chef_id": "CHEF001",
+        "chef_pic": "https://example.com/chef001.jpg",
+        "name": "John Smith",
+        "years_of_experience": 10,
+        "likes": 150
+    },
+    {
+        "chef_id": "CHEF002",
+        "chef_pic": "https://example.com/chef002.jpg",
+        "name": "Jane Doe",
+        "years_of_experience": 5,
+        "likes": 500
+        
+    },
+    {
+        "chef_id": "CHEF003",
+        "chef_pic": "https://example.com/chef003.jpg",
+        "name": "Mark Johnson",
+        "years_of_experience": 15,
+        "likes": 346
+    },
+    {
+        "chef_id": "CHEF004",
+        "chef_pic": "https://example.com/chef003.jpg",
+        "name": "Mark Johnson",
+        "years_of_experience": 15,
+        "likes": 346
+    },
+    {
+        "chef_id": "CHEF005",
+        "chef_pic": "https://example.com/chef003.jpg",
+        "name": "Mark Johnson",
+        "years_of_experience": 15,
+        "likes": 346
+    },
+    {
+        "chef_id": "CHEF006",
+        "chef_pic": "https://example.com/chef003.jpg",
+        "name": "Mark Johnson",
+        "years_of_experience": 15,
+        "likes": 346
+    }
+]

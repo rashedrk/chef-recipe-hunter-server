@@ -29,6 +29,11 @@ app.get('/recipes/:id', (req,res) => {
     res.send(selectedRecipes);
 })
 
+//get all recipes 
+app.get('/recipes', (req,res) => {
+    res.send(recipes);
+})
+
 app.listen(port, () => {
     console.log(`Chef Discoveries listening on port ${port}`)
 })

@@ -2,44 +2,260 @@
     {
         "recipe_id": "REC001",
         "chef_id": "CHEF001",
-        "name": "Spaghetti Carbonara",
-        "ingredients": [
-            "spaghetti",
-            "bacon",
-            "eggs",
-            "Parmesan cheese",
-            "black pepper"
+        "name": "Butter Chicken",
+        "ingredients": "chicken, tomato puree, cream, butter, ginger, garlic, spices",
+        "cooking_method": [
+            "Marinate chicken with ginger, garlic, and spices.",
+            "Cook chicken in a pan until browned.",
+            "In a separate pan, sauté ginger and garlic in butter.",
+            "Add tomato puree and spices and cook for a few minutes.",
+            "Add cream and cooked chicken to the sauce and simmer until the chicken is cooked through.",
+            "Serve hot with naan or rice."
         ],
-        "cooking_method": "1. Cook spaghetti according to package directions. 2. Cook bacon in a large skillet until crispy. 3. In a bowl, beat eggs with Parmesan cheese and black pepper. 4. Drain spaghetti and add to skillet with bacon. 5. Pour egg mixture over spaghetti and toss until coated. 6. Serve hot.",
-        "rating": 4.8
+        "rating": 4.9
     },
     {
         "recipe_id": "REC002",
         "chef_id": "CHEF001",
-        "name": "Margherita Pizza",
-        "ingredients": [
-            "pizza dough",
-            "tomato sauce",
-            "fresh mozzarella cheese",
-            "fresh basil",
-            "olive oil"
+        "name": "Chana Masala",
+        "ingredients": "chickpeas, tomato, onion, ginger, garlic, spices",
+        "cooking_method": [
+            "Soak chickpeas overnight.",
+            "Pressure cook chickpeas until tender.",
+            "In a pan, sauté onions, ginger, and garlic.",
+            "Add chopped tomatoes and spices and cook until the tomatoes are soft.",
+            "Add the cooked chickpeas to the pan and simmer for a few minutes.",
+            "Garnish with cilantro and serve hot with rice or naan."
         ],
-        "cooking_method": "1. Preheat oven to 450 degrees F. 2. Roll out pizza dough and place on baking sheet. 3. Spread tomato sauce over dough. 4. Add sliced mozzarella cheese and fresh basil leaves. 5. Drizzle with olive oil. 6. Bake for 12-15 minutes or until crust is golden brown. 7. Serve hot.",
-        "rating": 4.5
+        "rating": 4.7
     },
     {
         "recipe_id": "REC003",
         "chef_id": "CHEF001",
-        "name": "Seafood Risotto",
-        "ingredients": [
-            "arborio rice",
-            "shrimp",
-            "scallops",
-            "clams",
-            "chicken broth",
-            "Parmesan cheese"
+        "name": "Palak Paneer",
+        "ingredients": "spinach, paneer, onion, tomato, ginger, garlic, spices",
+        "cooking_method": [
+            "Blanch spinach leaves in boiling water for a minute and then blend them into a smooth puree.",
+            "Sauté onions, ginger, and garlic in a pan until golden brown.",
+            "Add chopped tomatoes and spices and cook for a few minutes.",
+            "Add the spinach puree to the pan and cook until it thickens.",
+            "Add cubed paneer and simmer for a few minutes.",
+            "Garnish with cream and serve hot with naan or rice."
         ],
-        "cooking_method": "1. In a large pot, heat chicken broth until simmering. 2. In a separate pot, cook arborio rice according to package directions. 3. Add shrimp, scallops, and clams to the broth and cook until fully cooked. 4. Add cooked rice to the pot with the seafood and broth. 5. Stir in Parmesan cheese until melted. 6. Serve hot.",
+        "rating": 4.5
+    },
+    {
+        "recipe_id": "REC004",
+        "chef_id": "CHEF002",
+        "name": "Biryani",
+        "ingredients": "basmati rice, chicken, spices, onion, tomato, yogurt",
+        "cooking_method": [
+            "Marinate chicken in yogurt and spices for at least 30 minutes.",
+            "Cook rice with whole spices until it's half cooked.",
+            "Sauté onions and tomatoes in a separate pan.",
+            "Layer rice and chicken in a large pot, starting with rice at the bottom.",
+            "Add the sautéed onions and tomatoes on top of the chicken layer.",
+            "Cover and cook on low heat for about 20-25 minutes.",
+            "Serve hot with raita or chutney."
+        ],
+        "rating": 4.6
+    },
+    {
+        "recipe_id": "REC005",
+        "chef_id": "CHEF002",
+        "name": "Samosa",
+        "ingredients": "potatoes, peas, spices, flour, oil",
+        "cooking_method": [
+            "Boil and mash potatoes and mix with spices and peas.",
+            "Make a dough with flour and water.",
+            "Roll out the dough and cut into circles.",
+            "Fill each circle with the potato mixture and fold into a triangle.",
+            "Fry in hot oil until golden brown.",
+            "Serve hot with chutney or ketchup."
+        ],
+        "rating": 4.4
+    },
+    {
+        "recipe_id": "REC006",
+        "chef_id": "CHEF002",
+        "name": "Tandoori Chicken",
+        "ingredients": "chicken, yogurt, spices, lemon juice, ginger garlic paste",
+        "cooking_method": [
+            "Marinate chicken in yogurt, spices, lemon juice, and ginger garlic paste for at least 2 hours.",
+            "Preheat the oven to 400°F (200°C).",
+            "Place the marinated chicken on a baking tray and bake for about 30-35 minutes, turning once halfway through.",
+            "Serve hot with mint chutney and naan."
+        ],
+        "rating": 4.8
+    },
+    {
+        "recipe_id": "REC007",
+        "chef_id": "CHEF003",
+        "name": "Tandoori Chicken",
+        "ingredients": "chicken, yogurt, spices, lemon juice, ginger garlic paste",
+        "cooking_method": [
+            "Marinate chicken in yogurt, spices, lemon juice, and ginger garlic paste for at least 2 hours.",
+            "Preheat the oven to 400°F (200°C).",
+            "Place the marinated chicken on a baking tray and bake for about 30-35 minutes, turning once halfway through.",
+            "Serve hot with mint chutney and naan."
+        ],
+        "rating": 4.8
+    },
+    {
+        "recipe_id": "REC008",
+        "chef_id": "CHEF003",
+        "name": "Palak Paneer",
+        "ingredients": "spinach, paneer, onion, tomato, ginger, garlic, spices",
+        "cooking_method": [
+            "Blanch spinach leaves in boiling water for a minute and then blend them into a smooth puree.",
+            "Sauté onions, ginger, and garlic in a pan until golden brown.",
+            "Add chopped tomatoes and spices and cook for a few minutes.",
+            "Add the spinach puree to the pan and cook until it thickens.",
+            "Add cubed paneer and simmer for a few minutes.",
+            "Garnish with cream and serve hot with naan or rice."
+        ],
+        "rating": 4.5
+    },
+    {
+        "recipe_id": "REC009",
+        "chef_id": "CHEF003",
+        "name": "Samosa",
+        "ingredients": "potatoes, peas, spices, flour, oil",
+        "cooking_method": [
+            "Boil and mash potatoes and mix with spices and peas.",
+            "Make a dough with flour and water.",
+            "Roll out the dough and cut into circles.",
+            "Fill each circle with the potato mixture and fold into a triangle.",
+            "Fry in hot oil until golden brown.",
+            "Serve hot with chutney or ketchup."
+        ],
+        "rating": 4.4
+    },
+    {
+        "recipe_id": "REC010",
+        "chef_id": "CHEF004",
+        "name": "Tandoori Chicken",
+        "ingredients": "chicken, yogurt, spices, lemon juice, ginger garlic paste",
+        "cooking_method": [
+            "Marinate chicken in yogurt, spices, lemon juice, and ginger garlic paste for at least 2 hours.",
+            "Preheat the oven to 400°F (200°C).",
+            "Place the marinated chicken on a baking tray and bake for about 30-35 minutes, turning once halfway through.",
+            "Serve hot with mint chutney and naan."
+        ],
+        "rating": 4.8
+    },
+    {
+        "recipe_id": "REC011",
+        "chef_id": "CHEF004",
+        "name": "Samosa",
+        "ingredients": "potatoes, peas, spices, flour, oil",
+        "cooking_method": [
+            "Boil and mash potatoes and mix with spices and peas.",
+            "Make a dough with flour and water.",
+            "Roll out the dough and cut into circles.",
+            "Fill each circle with the potato mixture and fold into a triangle.",
+            "Fry in hot oil until golden brown.",
+            "Serve hot with chutney or ketchup."
+        ],
+        "rating": 4.4
+    },
+    {
+        "recipe_id": "REC012",
+        "chef_id": "CHEF004",
+        "name": "Tandoori Chicken",
+        "ingredients": "chicken, yogurt, spices, lemon juice, ginger garlic paste",
+        "cooking_method": [
+            "Marinate chicken in yogurt, spices, lemon juice, and ginger garlic paste for at least 2 hours.",
+            "Preheat the oven to 400°F (200°C).",
+            "Place the marinated chicken on a baking tray and bake for about 30-35 minutes, turning once halfway through.",
+            "Serve hot with mint chutney and naan."
+        ],
+        "rating": 4.8
+    },
+    {
+        "recipe_id": "REC013",
+        "chef_id": "CHEF005",
+        "name": "Tandoori Chicken",
+        "ingredients": "chicken, yogurt, spices, lemon juice, ginger garlic paste",
+        "cooking_method": [
+            "Marinate chicken in yogurt, spices, lemon juice, and ginger garlic paste for at least 2 hours.",
+            "Preheat the oven to 400°F (200°C).",
+            "Place the marinated chicken on a baking tray and bake for about 30-35 minutes, turning once halfway through.",
+            "Serve hot with mint chutney and naan."
+        ],
+        "rating": 4.8
+    },
+    {
+        "recipe_id": "REC014",
+        "chef_id": "CHEF005",
+        "name": "Palak Paneer",
+        "ingredients": "spinach, paneer, onion, tomato, ginger, garlic, spices",
+        "cooking_method": [
+            "Blanch spinach leaves in boiling water for a minute and then blend them into a smooth puree.",
+            "Sauté onions, ginger, and garlic in a pan until golden brown.",
+            "Add chopped tomatoes and spices and cook for a few minutes.",
+            "Add the spinach puree to the pan and cook until it thickens.",
+            "Add cubed paneer and simmer for a few minutes.",
+            "Garnish with cream and serve hot with naan or rice."
+        ],
+        "rating": 4.5
+    },
+    {
+        "recipe_id": "REC015",
+        "chef_id": "CHEF005",
+        "name": "Tandoori Chicken",
+        "ingredients": "chicken, yogurt, spices, lemon juice, ginger garlic paste",
+        "cooking_method": [
+            "Marinate chicken in yogurt, spices, lemon juice, and ginger garlic paste for at least 2 hours.",
+            "Preheat the oven to 400°F (200°C).",
+            "Place the marinated chicken on a baking tray and bake for about 30-35 minutes, turning once halfway through.",
+            "Serve hot with mint chutney and naan."
+        ],
+        "rating": 4.8
+    },
+    {
+        "recipe_id": "REC016",
+        "chef_id": "CHEF006",
+        "name": "Butter Chicken",
+        "ingredients": "chicken, tomato puree, cream, butter, ginger, garlic, spices",
+        "cooking_method": [
+            "Marinate chicken with ginger, garlic, and spices.",
+            "Cook chicken in a pan until browned.",
+            "In a separate pan, sauté ginger and garlic in butter.",
+            "Add tomato puree and spices and cook for a few minutes.",
+            "Add cream and cooked chicken to the sauce and simmer until the chicken is cooked through.",
+            "Serve hot with naan or rice."
+        ],
+        "rating": 4.9
+    },
+    {
+        "recipe_id": "REC017",
+        "chef_id": "CHEF006",
+        "name": "Chana Masala",
+        "ingredients": "chickpeas, tomato, onion, ginger, garlic, spices",
+        "cooking_method": [
+            "Soak chickpeas overnight.",
+            "Pressure cook chickpeas until tender.",
+            "In a pan, sauté onions, ginger, and garlic.",
+            "Add chopped tomatoes and spices and cook until the tomatoes are soft.",
+            "Add the cooked chickpeas to the pan and simmer for a few minutes.",
+            "Garnish with cilantro and serve hot with rice or naan."
+        ],
         "rating": 4.7
+    },
+    {
+        "recipe_id": "REC018",
+        "chef_id": "CHEF006",
+        "name": "Palak Paneer",
+        "ingredients": "spinach, paneer, onion, tomato, ginger, garlic, spices",
+        "cooking_method": [
+            "Blanch spinach leaves in boiling water for a minute and then blend them into a smooth puree.",
+            "Sauté onions, ginger, and garlic in a pan until golden brown.",
+            "Add chopped tomatoes and spices and cook for a few minutes.",
+            "Add the spinach puree to the pan and cook until it thickens.",
+            "Add cubed paneer and simmer for a few minutes.",
+            "Garnish with cream and serve hot with naan or rice."
+        ],
+        "rating": 4.5
     }
 ]

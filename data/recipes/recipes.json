@@ -12,7 +12,8 @@
             "Add cream and cooked chicken to the sauce and simmer until the chicken is cooked through.",
             "Serve hot with naan or rice."
         ],
-        "rating": 4.9
+        "rating": 4.9,
+        "img" : "https://cafedelites.com/wp-content/uploads/2019/01/Butter-Chicken-IMAGE-64.jpg"
     },
     {
         "recipe_id": "REC002",
@@ -27,7 +28,8 @@
             "Add the cooked chickpeas to the pan and simmer for a few minutes.",
             "Garnish with cilantro and serve hot with rice or naan."
         ],
-        "rating": 4.7
+        "rating": 4.7,
+        "img" : "https://cdn.shopify.com/s/files/1/0588/7885/3293/articles/Chana_Masala_1000x1000.jpg?v=1636403728"
     },
     {
         "recipe_id": "REC003",
@@ -42,7 +44,8 @@
             "Add cubed paneer and simmer for a few minutes.",
             "Garnish with cream and serve hot with naan or rice."
         ],
-        "rating": 4.5
+        "rating": 4.5,
+        "img" : "https://healthynibblesandbits.com/wp-content/uploads/2020/01/Saag-Paneer-FF.jpg"
     },
     {
         "recipe_id": "REC004",
@@ -58,7 +61,8 @@
             "Cover and cook on low heat for about 20-25 minutes.",
             "Serve hot with raita or chutney."
         ],
-        "rating": 4.6
+        "rating": 4.6,
+        "img" : "https://healux.in/wp-content/uploads/2020/11/ChickenBiryani.jpg"
     },
     {
         "recipe_id": "REC005",
@@ -73,7 +77,8 @@
             "Fry in hot oil until golden brown.",
             "Serve hot with chutney or ketchup."
         ],
-        "rating": 4.4
+        "rating": 4.4,
+        "img" : "https://www.recipetineats.com/wp-content/uploads/2021/02/Samosas-on-plate-SQ.jpg"
     },
     {
         "recipe_id": "REC006",
@@ -86,7 +91,8 @@
             "Place the marinated chicken on a baking tray and bake for about 30-35 minutes, turning once halfway through.",
             "Serve hot with mint chutney and naan."
         ],
-        "rating": 4.8
+        "rating": 4.8,
+        "img" : "https://www.cubesnjuliennes.com/wp-content/uploads/2022/12/Tandoori-Chicken-Recipe.jpg"
     },
     {
         "recipe_id": "REC007",
@@ -99,7 +105,8 @@
             "Place the marinated chicken on a baking tray and bake for about 30-35 minutes, turning once halfway through.",
             "Serve hot with mint chutney and naan."
         ],
-        "rating": 4.8
+        "rating": 4.8,
+        "img" : "https://www.cubesnjuliennes.com/wp-content/uploads/2022/12/Tandoori-Chicken-Recipe.jpg"
     },
     {
         "recipe_id": "REC008",
@@ -114,7 +121,8 @@
             "Add cubed paneer and simmer for a few minutes.",
             "Garnish with cream and serve hot with naan or rice."
         ],
-        "rating": 4.5
+        "rating": 4.5,
+        "img" : "https://healthynibblesandbits.com/wp-content/uploads/2020/01/Saag-Paneer-FF.jpg"
     },
     {
         "recipe_id": "REC009",
@@ -129,7 +137,8 @@
             "Fry in hot oil until golden brown.",
             "Serve hot with chutney or ketchup."
         ],
-        "rating": 4.4
+        "rating": 4.4,
+        "img" : "https://www.recipetineats.com/wp-content/uploads/2021/02/Samosas-on-plate-SQ.jpg"
     },
     {
         "recipe_id": "REC010",
@@ -142,7 +151,8 @@
             "Place the marinated chicken on a baking tray and bake for about 30-35 minutes, turning once halfway through.",
             "Serve hot with mint chutney and naan."
         ],
-        "rating": 4.8
+        "rating": 4.8,
+        "img" : "https://www.cubesnjuliennes.com/wp-content/uploads/2022/12/Tandoori-Chicken-Recipe.jpg"
     },
     {
         "recipe_id": "REC011",
@@ -157,7 +167,8 @@
             "Fry in hot oil until golden brown.",
             "Serve hot with chutney or ketchup."
         ],
-        "rating": 4.4
+        "rating": 4.4,
+        "img" : "https://www.recipetineats.com/wp-content/uploads/2021/02/Samosas-on-plate-SQ.jpg"
     },
     {
         "recipe_id": "REC012",
@@ -170,7 +181,8 @@
             "Place the marinated chicken on a baking tray and bake for about 30-35 minutes, turning once halfway through.",
             "Serve hot with mint chutney and naan."
         ],
-        "rating": 4.8
+        "rating": 4.8,
+        "img" : "https://www.cubesnjuliennes.com/wp-content/uploads/2022/12/Tandoori-Chicken-Recipe.jpg"
     },
     {
         "recipe_id": "REC013",
@@ -183,7 +195,8 @@
             "Place the marinated chicken on a baking tray and bake for about 30-35 minutes, turning once halfway through.",
             "Serve hot with mint chutney and naan."
         ],
-        "rating": 4.8
+        "rating": 4.8,
+        "img" : "https://www.cubesnjuliennes.com/wp-content/uploads/2022/12/Tandoori-Chicken-Recipe.jpg"
     },
     {
         "recipe_id": "REC014",
@@ -198,7 +211,8 @@
             "Add cubed paneer and simmer for a few minutes.",
             "Garnish with cream and serve hot with naan or rice."
         ],
-        "rating": 4.5
+        "rating": 4.5,
+        "img" : "https://healthynibblesandbits.com/wp-content/uploads/2020/01/Saag-Paneer-FF.jpg"
     },
     {
         "recipe_id": "REC015",
@@ -211,7 +225,8 @@
             "Place the marinated chicken on a baking tray and bake for about 30-35 minutes, turning once halfway through.",
             "Serve hot with mint chutney and naan."
         ],
-        "rating": 4.8
+        "rating": 4.8,
+        "img" : "https://www.cubesnjuliennes.com/wp-content/uploads/2022/12/Tandoori-Chicken-Recipe.jpg"
     },
     {
         "recipe_id": "REC016",
@@ -226,7 +241,8 @@
             "Add cream and cooked chicken to the sauce and simmer until the chicken is cooked through.",
             "Serve hot with naan or rice."
         ],
-        "rating": 4.9
+        "rating": 4.9,
+        "img" : "https://cafedelites.com/wp-content/uploads/2019/01/Butter-Chicken-IMAGE-64.jpg"
     },
     {
         "recipe_id": "REC017",
@@ -241,7 +257,8 @@
             "Add the cooked chickpeas to the pan and simmer for a few minutes.",
             "Garnish with cilantro and serve hot with rice or naan."
         ],
-        "rating": 4.7
+        "rating": 4.7,
+        "img" : "https://cdn.shopify.com/s/files/1/0588/7885/3293/articles/Chana_Masala_1000x1000.jpg?v=1636403728"
     },
     {
         "recipe_id": "REC018",
@@ -256,6 +273,7 @@
             "Add cubed paneer and simmer for a few minutes.",
             "Garnish with cream and serve hot with naan or rice."
         ],
-        "rating": 4.5
+        "rating": 4.5,
+        "img" : "https://healthynibblesandbits.com/wp-content/uploads/2020/01/Saag-Paneer-FF.jpg"
     }
 ]

@@ -1,0 +1,45 @@
+[
+    {
+        "recipe_id": "REC001",
+        "chef_id": "CHEF001",
+        "name": "Spaghetti Carbonara",
+        "ingredients": [
+            "spaghetti",
+            "bacon",
+            "eggs",
+            "Parmesan cheese",
+            "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package directions. 2. Cook bacon in a large skillet until crispy. 3. In a bowl, beat eggs with Parmesan cheese and black pepper. 4. Drain spaghetti and add to skillet with bacon. 5. Pour egg mixture over spaghetti and toss until coated. 6. Serve hot.",
+        "rating": 4.8
+    },
+    {
+        "recipe_id": "REC002",
+        "chef_id": "CHEF001",
+        "name": "Margherita Pizza",
+        "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "fresh mozzarella cheese",
+            "fresh basil",
+            "olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 450 degrees F. 2. Roll out pizza dough and place on baking sheet. 3. Spread tomato sauce over dough. 4. Add sliced mozzarella cheese and fresh basil leaves. 5. Drizzle with olive oil. 6. Bake for 12-15 minutes or until crust is golden brown. 7. Serve hot.",
+        "rating": 4.5
+    },
+    {
+        "recipe_id": "REC003",
+        "chef_id": "CHEF001",
+        "name": "Seafood Risotto",
+        "ingredients": [
+            "arborio rice",
+            "shrimp",
+            "scallops",
+            "clams",
+            "chicken broth",
+            "Parmesan cheese"
+        ],
+        "cooking_method": "1. In a large pot, heat chicken broth until simmering. 2. In a separate pot, cook arborio rice according to package directions. 3. Add shrimp, scallops, and clams to the broth and cook until fully cooked. 4. Add cooked rice to the pot with the seafood and broth. 5. Stir in Parmesan cheese until melted. 6. Serve hot.",
+        "rating": 4.7
+    }
+]

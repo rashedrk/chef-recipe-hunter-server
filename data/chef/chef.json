@@ -1,57 +1,56 @@
 [
     {
         "chef_id": "CHEF001",
-        "chef_pic": "https://images.pexels.com/photos/671956/pexels-photo-671956.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-        "name": "John Smith",
-        "years": 10,
-        "likes": 150,
-        "recipes": 20,
-        "bio": "Chef John Smith has over 10 years of experience in the culinary industry. He is an expert in Italian cuisine, seafood, and baking, and has a passion for creating dishes that are both delicious and visually stunning."
+        "chef_pic": "https://im.rediff.com/getahead/2016/mar/09womanchef04.jpg",
+        "name": "Sunita Sharma",
+        "years": 15,
+        "likes": 2060,
+        "recipes_no": 23,
+        "bio": "Chef Sunita Sharma is a renowned Indian chef with over 15 years of experience in the culinary industry. She specializes in creating authentic North Indian dishes, and has a passion for incorporating traditional Indian spices and ingredients into her recipes. With her extensive knowledge of Indian cuisine and her commitment to quality, Chef Sunita has gained a large following of fans who appreciate her delicious and healthy dishes."
     },
     {
         "chef_id": "CHEF002",
-        "chef_pic": "https://images.pexels.com/photos/671956/pexels-photo-671956.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-        "name": "Jane Doe",
-        "years": 5,
-        "likes": 500,
-        "recipes": 20,
-        "bio": "Chef John Smith has over 10 years of experience in the culinary industry. He is an expert in Italian cuisine, seafood, and baking, and has a passion for creating dishes that are both delicious and visually stunning."
-        
+        "chef_pic": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/vkhanna.jpg",
+        "name": "Vikas Khanna",
+        "years": 6,
+        "likes": 5643,
+        "recipes_no": 20,
+        "bio": "Vikas Khanna has certainly made a name for himself, not just in India, but even internationally. He is a Michelin star chef and his restaurant Junoon has won Michelin stars for 6 consecutive years! In case you still don't recognise him, he was the host of the MasterChef India Season 2. A great chef and an equally nice person, his passion for culinary art is enough to make you want to start cooking!"
     },
     {
         "chef_id": "CHEF003",
-        "chef_pic": "https://images.pexels.com/photos/671956/pexels-photo-671956.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-        "name": "Mark Johnson",
-        "years": 15,
-        "likes": 346,
-        "recipes": 20,
-        "bio": "Chef John Smith has over 10 years of experience in the culinary industry. He is an expert in Italian cuisine, seafood, and baking, and has a passion for creating dishes that are both delicious and visually stunning."
+        "chef_pic": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/sanjeev-kapoor-1.jpg",
+        "name": "Sanjeev Kapoor",
+        "years": 25,
+        "likes": 8735,
+        "recipes_no": 30,
+        "bio": "Sanjeev Kapoor is a name that's popular in every Indian household and 90's kid probably even grew up watching his insanely famous cooking show called 'Khana Khazana'. The way he prepares dishes with adoration and a bright smile on his face makes anyone watching his easy recipes, try them for themselves. Did you know he owns the restaurant chain The Yellow Chilli?!"
     },
     {
         "chef_id": "CHEF004",
-        "chef_pic": "https://images.pexels.com/photos/671956/pexels-photo-671956.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-        "name": "Mark Johnson",
-        "years": 15,
-        "likes": 346,
-        "recipes": 20,
-        "bio": "Chef John Smith has over 10 years of experience in the culinary industry. He is an expert in Italian cuisine, seafood, and baking, and has a passion for creating dishes that are both delicious and visually stunning."
+        "chef_pic": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/pankaj-bhadouria-1.jpg",
+        "name": "Pankaj Bhadouria",
+        "years": 25,
+        "likes": 4635,
+        "recipes_no": 12,
+        "bio": "A renowned name in the Indian culinary world, she is the winner of MasterChef India Season 1. Since then she has been spreading her love for cooking by teaching people recipes through several shows like 'Chef Pankaj Ka Zayka' and '3 Course with Pankaj', to name a few."
     },
     {
         "chef_id": "CHEF005",
-        "chef_pic": "https://images.pexels.com/photos/671956/pexels-photo-671956.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-        "name": "Mark Johnson",
-        "years": 15,
-        "likes": 346,
-        "recipes": 20,
-        "bio": "Chef John Smith has over 10 years of experience in the culinary industry. He is an expert in Italian cuisine, seafood, and baking, and has a passion for creating dishes that are both delicious and visually stunning."
+        "chef_pic": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/vineet-bhatia-1.jpg",
+        "name": "Vineet Bhatia",
+        "years": 20,
+        "likes": 5875,
+        "recipes_no": 22,
+        "bio": "He is a successful restauranteur with several popular names under his belt and is, of course, a famous Michelin star chef as well. You may recognise him from the show The Final Table, which saw him as an expert on one of the episodes. His recipes are generally easy to follow, and they use simple ingredients. We’re totally bowled over by his recipe for Makhani Gravy!"
     },
     {
         "chef_id": "CHEF006",
-        "chef_pic": "https://images.pexels.com/photos/671956/pexels-photo-671956.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-        "name": "Mark Johnson",
-        "years": 15,
-        "likes": 346,
-        "recipes": 20,
-        "bio": "Chef John Smith has over 10 years of experience in the culinary industry. He is an expert in Italian cuisine, seafood, and baking, and has a passion for creating dishes that are both delicious and visually stunning."
+        "chef_pic": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/kunal-kapoor-1.jpg",
+        "name": "Kunal Kapur",
+        "years": 9,
+        "likes": 6735,
+        "recipes_no": 15,
+        "bio": "Kunal Kapur is a well-known celebrity chef who has also previously been a judge on MasterChef India. He has won the Epicurean Guild Award for Best Food Entertainer in 2017 amongst many others over the years. Did you know he was invited as a guest chef on MasterChef America in Season 2?"
     }
 ]

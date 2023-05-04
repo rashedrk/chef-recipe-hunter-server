@@ -1,45 +1,57 @@
 [
     {
         "chef_id": "CHEF001",
-        "chef_pic": "https://example.com/chef001.jpg",
+        "chef_pic": "https://images.pexels.com/photos/671956/pexels-photo-671956.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "name": "John Smith",
-        "years_of_experience": 10,
-        "likes": 150
+        "years": 10,
+        "likes": 150,
+        "recipes": 20,
+        "bio": "Chef John Smith has over 10 years of experience in the culinary industry. He is an expert in Italian cuisine, seafood, and baking, and has a passion for creating dishes that are both delicious and visually stunning."
     },
     {
         "chef_id": "CHEF002",
-        "chef_pic": "https://example.com/chef002.jpg",
+        "chef_pic": "https://images.pexels.com/photos/671956/pexels-photo-671956.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "name": "Jane Doe",
-        "years_of_experience": 5,
-        "likes": 500
+        "years": 5,
+        "likes": 500,
+        "recipes": 20,
+        "bio": "Chef John Smith has over 10 years of experience in the culinary industry. He is an expert in Italian cuisine, seafood, and baking, and has a passion for creating dishes that are both delicious and visually stunning."
         
     },
     {
         "chef_id": "CHEF003",
-        "chef_pic": "https://example.com/chef003.jpg",
+        "chef_pic": "https://images.pexels.com/photos/671956/pexels-photo-671956.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "name": "Mark Johnson",
-        "years_of_experience": 15,
-        "likes": 346
+        "years": 15,
+        "likes": 346,
+        "recipes": 20,
+        "bio": "Chef John Smith has over 10 years of experience in the culinary industry. He is an expert in Italian cuisine, seafood, and baking, and has a passion for creating dishes that are both delicious and visually stunning."
     },
     {
         "chef_id": "CHEF004",
-        "chef_pic": "https://example.com/chef003.jpg",
+        "chef_pic": "https://images.pexels.com/photos/671956/pexels-photo-671956.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "name": "Mark Johnson",
-        "years_of_experience": 15,
-        "likes": 346
+        "years": 15,
+        "likes": 346,
+        "recipes": 20,
+        "bio": "Chef John Smith has over 10 years of experience in the culinary industry. He is an expert in Italian cuisine, seafood, and baking, and has a passion for creating dishes that are both delicious and visually stunning."
     },
     {
         "chef_id": "CHEF005",
-        "chef_pic": "https://example.com/chef003.jpg",
+        "chef_pic": "https://images.pexels.com/photos/671956/pexels-photo-671956.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "name": "Mark Johnson",
-        "years_of_experience": 15,
-        "likes": 346
+        "years": 15,
+        "likes": 346,
+        "recipes": 20,
+        "bio": "Chef John Smith has over 10 years of experience in the culinary industry. He is an expert in Italian cuisine, seafood, and baking, and has a passion for creating dishes that are both delicious and visually stunning."
     },
     {
         "chef_id": "CHEF006",
-        "chef_pic": "https://example.com/chef003.jpg",
+        "chef_pic": "https://images.pexels.com/photos/671956/pexels-photo-671956.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "name": "Mark Johnson",
-        "years_of_experience": 15,
-        "likes": 346
+        "years": 15,
+        "likes": 346,
+        "recipes": 20,
+        "bio": "Chef John Smith has over 10 years of experience in the culinary industry. He is an expert in Italian cuisine, seafood, and baking, and has a passion for creating dishes that are both delicious and visually stunning."
     }
 ]
